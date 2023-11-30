@@ -30,7 +30,7 @@ section.dark {
 
 section.light {
   color: black;
-  background: rgba(255, 255, 255, 0.35);
+  background: rgba(184, 49, 49, 0.35);
   padding: 8rem 0;
 }
 
@@ -39,7 +39,7 @@ section img.background {
   height: 100%;
   z-index: -1;
   position: absolute;
-  top: 0;
+  top: 10%;
   left: 75%;
   transform: translate(-50%, 0);
   pointer-events: none;
