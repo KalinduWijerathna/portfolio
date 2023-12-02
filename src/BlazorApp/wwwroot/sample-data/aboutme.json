@@ -1,9 +1,10 @@
 {
   "description": "I'm a Computer Engineering student studying at Faculty of Engineering, University of Peradeniya.",
   "skills": [
-    "Networking Infrastructure Design",
+    "Network Engineering",
     "Full Stack Development",
-    "DevOps"
+    "DevOps",
+    "SDN"
   ],
   "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my experience I continually look for new and better ways to make tech accessible by all."
 }
